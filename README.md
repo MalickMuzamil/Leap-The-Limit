@@ -12,7 +12,6 @@
 
 Follow these simple steps to run the project locally:
 
-```bash
 # 1. Install dependencies
 npm install
 
@@ -25,13 +24,10 @@ npm run dev
 🛠️ Customizing
 🎨 All the source code lives inside the /src directory. You can freely modify:
 
-Components
-
-Layout
-
-Pages
-
-Styles
+ 1- Components
+ 2- Layout
+ 3- Pages
+ 4- Styles
 
 💡 Tip: Use Tailwind CSS utility classes for fast prototyping and beautiful layouts.
 
@@ -42,15 +38,13 @@ This template is a commercial product and is licensed under the
 📚 Learn More
 Wanna dive deeper into the stack?
 
-🧩 Tailwind CSS Documentation
-
-⚛️ Next.js Documentation
-
-🎛️ Headless UI Documentation
+  🧩 Tailwind CSS Documentation
+  ⚛️ Next.js Documentation
+  🎛️ Headless UI Documentation
 
 🧑‍💻 Author
-Made with ❤️ by MalickMuzamil
+Made with ❤️ by **MalickMuzamil**
 🔗 LinkedIn
 📫 malikmuzamil92110@example.com
 
-“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs
+**“Design is not just what it looks like and feels like. Design is how it works.”** Steve Jobs
