@@ -50,7 +50,7 @@ Wanna dive deeper into the stack?
 
 🧑‍💻 Author
 Made with ❤️ by **MalickMuzamil**
-📫 malikmuzamil92110@example.com
+📫 malikmuzamil92110@gmail.com
 🔗 LinkedIn
 📫 https://www.linkedin.com/in/malik-muzamil/
 
