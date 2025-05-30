@@ -21,7 +21,7 @@ npm run dev
 🔗 Open your browser and navigate to:
 👉 http://localhost:3000
 
-🛠️ Customizing
+# 3. 🛠️ Customizing
 🎨 All the source code lives inside the /src directory. You can freely modify:
 
  1- Components
