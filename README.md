@@ -31,9 +31,13 @@ npm run dev
 
 💡 Tip: Use Tailwind CSS utility classes for fast prototyping and beautiful layouts.
 
+---
+
 📄 License
 This template is a commercial product and is licensed under the
 🔗 Tailwind UI License
+
+---
 
 📚 Learn More
 Wanna dive deeper into the stack?
@@ -42,9 +46,13 @@ Wanna dive deeper into the stack?
   ⚛️ Next.js Documentation
   🎛️ Headless UI Documentation
 
+---
+
 🧑‍💻 Author
 Made with ❤️ by **MalickMuzamil**
 🔗 LinkedIn
 📫 malikmuzamil92110@example.com
+
+---
 
 **“Design is not just what it looks like and feels like. Design is how it works.”** Steve Jobs
