@@ -1,4 +1,4 @@
-<h1 align="center">✨ Salient — Tailwind UI Template</h1>
+<h1 align="center">✨ Leap The Time (Tailwind UI Template)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Next.js%20%26%20Tailwind-blueviolet?style=for-the-badge" />
@@ -22,6 +22,7 @@ npm run dev
 👉 http://localhost:3000
 
 # 3. 🛠️ Customizing
+
 🎨 All the source code lives inside the /src directory. You can freely modify:
 
  1- Components
@@ -35,11 +36,13 @@ npm run dev
 
 📄 License
 This template is a commercial product and is licensed under the
+
 🔗 Tailwind UI License
 
 ---
 
 📚 Learn More
+
 Wanna dive deeper into the stack?
 
   🧩 Tailwind CSS Documentation
