@@ -26,8 +26,11 @@ npm run dev
 🎨 All the source code lives inside the /src directory. You can freely modify:
 
  1- Components
+ 
  2- Layout
+ 
  3- Pages
+ 
  4- Styles
 
 💡 Tip: Use Tailwind CSS utility classes for fast prototyping and beautiful layouts.
