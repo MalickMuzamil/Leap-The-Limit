@@ -45,7 +45,7 @@ This template is a commercial product and is licensed under the
 
 ---
 
-📚 Learn More
+## 📚 Learn More
 
 Wanna dive deeper into the stack?
 
@@ -55,7 +55,7 @@ Wanna dive deeper into the stack?
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Made with ❤️ by **MalickMuzamil**
 📫 malikmuzamil92110@gmail.com
 🔗 LinkedIn
