@@ -43,7 +43,6 @@ This template is a commercial product and is licensed under the
 
 🔗 Tailwind UI License
 
----
 
 ## 📚 Learn More
 
