@@ -20,7 +20,7 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/leap-the-time.git
+git clone https://github.com/MalickMuzamil/leap-the-time.git
 cd leap-the-time
 
 2. Install dependencies
@@ -61,6 +61,8 @@ This project uses Tailwind UI, a commercial product licensed under the
 🔗 Tailwind UI License
 
 **Do not distribute or resell this template without a valid license.**
+
+---
 
 ### 📚 Learn More
 
