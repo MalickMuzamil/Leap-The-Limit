@@ -35,7 +35,7 @@ npm run dev
 
 ---
 
-###🛠️ Customization
+### 🛠️ Customization
 All source files are organized within the /src directory. You can easily modify:
 
 ---
