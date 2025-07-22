@@ -1,4 +1,4 @@
-<h1 align="center">✨ Leap The Time — Tailwind UI Template</h1>
+<h1 align="center">✨ Leap The Time Tailwind UI Template</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Next.js%20%26%20Tailwind-blueviolet?style=for-the-badge" />
